@@ -7,9 +7,7 @@ hi new string
 hi new string
 hi new string
 hi new string
-hi new string
-hi new string
-hi new string
+
 hi new string
 hi new string
 hi new string
